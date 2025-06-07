@@ -35,7 +35,6 @@ export default function ColorfulBiography() {
                     </h3>
                     <div className="flex items-center mt-1">
                       <Star className="w-4 h-4 text-yellow-400 mr-1" />
-                      <span className="text-white/60 text-sm">Soñadora desde pequeña</span>
                     </div>
                   </div>
                 </div>
@@ -59,7 +58,6 @@ export default function ColorfulBiography() {
                     </h3>
                     <div className="flex items-center mt-1">
                       <Sparkles className="w-4 h-4 text-blue-400 mr-1" />
-                      <span className="text-white/60 text-sm">Python es mi favorito</span>
                     </div>
                   </div>
                 </div>
@@ -82,14 +80,12 @@ export default function ColorfulBiography() {
                     </h3>
                     <div className="flex items-center mt-1">
                       <Coffee className="w-4 h-4 text-green-400 mr-1" />
-                      <span className="text-white/60 text-sm">Lasaña y música relajante</span>
                     </div>
                   </div>
                 </div>
                 <div className="bg-gradient-to-r from-green-500/10 to-emerald-500/10 backdrop-blur-xl rounded-2xl p-6 border border-green-300/20 hover:border-green-300/40 transition-all duration-300">
                   <p className="text-white/90 leading-relaxed text-lg">
-                    Su sueño es tener su casa propia, formar una familia y cumplirle las promesas a su abuela. La lasaña
-                    es su plato favorito y la música relajante su refugio cuando necesita paz. 🏠💕
+                    Su sueño es tener su casa propia, formar una familia. La música relajante su refugio cuando necesita paz. 🏠💕
                   </p>
                 </div>
               </div>
